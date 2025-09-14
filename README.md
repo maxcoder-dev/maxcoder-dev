@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello! I'm Maxcoder-dev
 
-<!--
-**maxcoder-dev/maxcoder-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
 
-Here are some ideas to get you started:
+I'm a **beginner developer**, learning and experimenting with **C++**, **Python**, **HTML/CSS/JS**, and more! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 My Projects
+- Simple console games in C++
+- Discord bots in Python
+- Learning projects with HTML, CSS, and JS
+- Mini-projects to practice GitHub
+
+---
+
+## 🌱 Currently Learning
+- Advanced C++
+- Creating GUI applications
+- Web development: HTML/CSS/JS
+- Working with APIs and Discord bots
+
+---
+
+## 👾 My Skills
+
+```text
+C++        ▓▓▓▓▓░░░░░░ 50%
+Python     ▓▓▓▓▓▓▓░░░░ 70%
+HTML/CSS   ▓▓▓▓▓▓░░░░░ 60%
+JavaScript ▓▓▓▓░░░░░░░ 40%
