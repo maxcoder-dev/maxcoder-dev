@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Maxcoder-dev
 
-![Header](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
+![Header](![Header](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/200w.gif)
+)
 
 I'm a **beginner developer**, learning and experimenting with **C++**, **Python**, **HTML/CSS/JS**, and more! 🚀
 
